@@ -7,7 +7,7 @@
 
 >As for where I draw my knowledge and skills from presently - it's also a mixed-bag. I completed an AA at Bellevue College and dabbled in a few Majors: a stint at the Art Institute of Seattle for Game Art & Design; Global Studies(PoliSci) at the UW. 
 
-Inevitably - after all that wayward wandering - Computer Science drew me back to itself after my own personal Odyssey, and I think it's where I'll stay.
+>Inevitably - after all that wayward wandering - Computer Science drew me back to itself after my own personal Odyssey, and I think it's where I'll stay.
 
 > Hope to make your acquaintance soon!
 
